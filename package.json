@@ -1,0 +1,14 @@
+{
+  "name": "auto-offboarding-api",
+  "version": "1.0.0",
+  "description": "API para generar tokens de Google en Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "axios": "^1.6.2"
+  }
+}
